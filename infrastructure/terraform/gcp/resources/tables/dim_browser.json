@@ -1,0 +1,14 @@
+[
+    {
+      "name": "id_browser",
+      "type": "INTEGER",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "browser",
+      "type": "STRING",
+      "mode": "",
+      "description": ""
+    }
+]

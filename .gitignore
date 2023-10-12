@@ -1,0 +1,15 @@
+*.tfstate*
+*.tfvars
+.terraform
+venv/ 
+*.txt
+*.csv
+
+logs/
+__pycache__/
+*.env
+*.ipynb
+*.pdf
+
+*.jar
+pyspark/*.yml

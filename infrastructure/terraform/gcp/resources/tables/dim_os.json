@@ -1,0 +1,14 @@
+[
+    {
+      "name": "id_os",
+      "type": "INTEGER",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "os",
+      "type": "STRING",
+      "mode": "",
+      "description": ""
+    }
+]

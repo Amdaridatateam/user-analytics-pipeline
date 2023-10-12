@@ -1,0 +1,14 @@
+[
+    {
+      "name": "id_device",
+      "type": "INTEGER",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "device",
+      "type": "STRING",
+      "mode": "",
+      "description": ""
+    }
+]

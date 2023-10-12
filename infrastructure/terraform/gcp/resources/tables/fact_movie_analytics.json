@@ -1,0 +1,44 @@
+[
+    {
+      "name": "id_movie_analytics",
+      "type": "INTEGER",
+      "mode": "REQUIRED",
+      "description": ""
+    },
+    {
+      "name": "id_log_date",
+      "type": "INTEGER",
+      "mode": "REQUIRED",
+      "description": "REQUIRED"
+    },
+    {
+      "name": "id_location",
+      "type": "INTEGER",
+      "mode": "REQUIRED",
+      "description": ""
+    },
+    {
+      "name": "id_os",
+      "type": "INTEGER",
+      "mode": "REQUIRED",
+      "description": ""
+    },
+    {
+      "name": "id_browser",
+      "type": "INTEGER",
+      "mode": "REQUIRED",
+      "description": ""
+    },
+    {
+      "name": "review_score",
+      "type": "INTEGER",
+      "mode": "REQUIRED",
+      "description": ""
+    },
+    {
+      "name": "review_count",
+      "type": "INTEGER",
+      "mode": "REQUIRED",
+      "description": ""
+    }
+]

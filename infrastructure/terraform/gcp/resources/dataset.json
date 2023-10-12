@@ -1,0 +1,34 @@
+[
+    {
+        "datasetId": "user_analytics",
+        "datasetRegion": "US",
+        "datasetFriendlyName": "User Analytics Dataset containing processed data",
+        "datasetDescription": "User analytics data warehouse",
+        "tables": [
+            {
+                "tableId": "fact_movie_analytics",
+                "tableSchemaPath": "resources/tables/fact_movie_analytics.json"
+            },
+            {
+                "tableId": "dim_browser",
+                "tableSchemaPath": "resources/tables/dim_browser.json"
+            },
+            {
+                "tableId": "dim_date",
+                "tableSchemaPath": "resources/tables/dim_date.json"
+            },
+            {
+                "tableId": "dim_device",
+                "tableSchemaPath": "resources/tables/dim_device.json"
+            },
+            {
+                "tableId": "dim_location",
+                "tableSchemaPath": "resources/tables/dim_location.json"
+            },
+            {
+                "tableId": "dim_os",
+                "tableSchemaPath": "resources/tables/dim_os.json"
+            }
+        ]
+    }
+]

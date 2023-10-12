@@ -1,0 +1,14 @@
+[
+    {
+      "name": "id_location",
+      "type": "INTEGER",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "location",
+      "type": "STRING",
+      "mode": "",
+      "description": ""
+    }
+]

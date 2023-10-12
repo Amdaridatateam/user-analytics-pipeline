@@ -1,0 +1,38 @@
+[
+    {
+      "name": "id_date",
+      "type": "INTEGER",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "log_date",
+      "type": "DATE",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "day",
+      "type": "STRING",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "month",
+      "type": "STRING",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "year",
+      "type": "STRING",
+      "mode": "",
+      "description": ""
+    },
+    {
+      "name": "season",
+      "type": "STRING",
+      "mode": "",
+      "description": ""
+    }
+]
